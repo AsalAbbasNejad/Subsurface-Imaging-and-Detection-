@@ -1,8 +1,8 @@
 # 2D Acoustic Wave Simulator (Finite Difference Method)
+A high-performance MATLAB implementation for simulating acoustic wave propagation in 2D media using the Finite Difference Method.
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7d77ea22-be6a-4563-b48c-59fe47065e1f" />
 
-
-A high-performance MATLAB implementation for simulating acoustic wave propagation in 2D media using the Finite Difference Method.
 
 ## Overview
 This simulator solves the 2D acoustic wave equation, allowing users to define complex velocity models, various source types, and receiver arrays.
