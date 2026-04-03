@@ -13,6 +13,7 @@ This simulator solves the 2D acoustic wave equation, allowing users to define co
 * Source Options: Supports Ricker wavelets, sinusoidal signals, and random noise sources.
 * Data Acquisition: Virtual receivers can be placed anywhere in the model to record pressure fields over time.
 
+
 ##  Project Structure
 * acu2Dpro.m: The main simulation function (The Engine).
 * fde.m: The finite difference kernel and boundary condition handler.
